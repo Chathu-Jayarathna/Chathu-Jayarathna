@@ -15,10 +15,10 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chathushi-jayarathna-578098234"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="linkedin"></a>
-<a href="https://instagram.com/___silent_weapon___?igshid=ZDdkNTZiNTM="><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50" height="50" alt="instagram"></img></a>
+<a href="https://instagram.com/___silent_weapon___?igshid=ZDdkNTZiNTM="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="instagram"></img></a>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chathushi-jayarathna-578098234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chathushi-jayarathna-578098234" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/___silent_weapon___?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/___silent_weapon___?igshid=zddkntzintm=" height="30" width="40" /></a>
+<a href="https://instagram.com/___silent_weapon___?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/___silent_weapon___?igshid=zddkntzintm=" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/2FEzNc2C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2FEzNc2C" height="30" width="40" /></a>
 </p>
 
