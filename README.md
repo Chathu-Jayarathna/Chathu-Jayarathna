@@ -9,7 +9,7 @@
 
 - 📫 Reach me **chathushi0707@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1QBJxJ4ygzN5G2ggCFSCY72RmyInpjEsb?usp=sharing](https://drive.google.com/drive/folders/1QBJxJ4ygzN5G2ggCFSCY72RmyInpjEsb?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OvCvtcs-z-KVUOCxIiDLc4tEJE1muERT/view?usp=sharing](https://drive.google.com/file/d/1OvCvtcs-z-KVUOCxIiDLc4tEJE1muERT/view?usp=sharing)
 
 ## Connect with me
 
