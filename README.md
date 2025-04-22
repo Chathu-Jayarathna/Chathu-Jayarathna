@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathu-jayarathna&label=Profile%20views&color=0e75b6&style=flat" alt="chathu-jayarathna" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://chathu-jayarathna.github.io/Chathu-Portfolio/](https://chathu-jayarathna.github.io/Chathu-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://chathu-jayarathna.github.io/Portfolioo/](https://chathu-jayarathna.github.io/Portfolioo/)
 
 - 📫 Reach me **chathushi0707@gmail.com**
 
