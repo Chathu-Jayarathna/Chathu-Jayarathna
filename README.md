@@ -20,7 +20,7 @@ I am a passionate Full-Stack Web Developer and UI/UX Designer dedicated to build
 - 🎨 **UI/UX & Design**: Designing clean, intuitive interfaces and visual assets using Figma, Photoshop, and modern CSS frameworks (Tailwind, Bootstrap).
 - 🎓 **IT Trainer & Mentor**: Passionate about teaching software concepts, modern web technologies, and guiding students in practical development.
 - 🤖 **AI Enthusiast**: Interested in integrating AI APIs, intelligent automation, and modern ML features into full-stack applications.
-- 🌐 **Portfolio**: Explore my projects at [chathu-jayarathna.github.io/Portfolioo](https://chathu-jayarathna.github.io/Portfolioo/)
+- 🌐 **Portfolio**: Explore my projects at [https://chathuportfolio.vercel.app/](https://chathuportfolio.vercel.app//)
 - 📬 **Reach Me**: [chathushi0707@gmail.com](mailto:chathushi0707@gmail.com)
 
 ---
